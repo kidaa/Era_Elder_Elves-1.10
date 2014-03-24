@@ -1,9 +1,17 @@
 
 		  -----= ERA ELDER ELVES =-----
 			    CHANGELOG
+..............................................................
 
 
-Version 0.11.8.4
+
+Version 1.9.2
+ = adjusted basic values of units to mainline standards (costs etc. pp.)
+
+Version 1.1.0
+ = merged in some units from The_Aragwaithi (.png sprites and .cfg files)
+
+Version 1.0.1
  = minor edits due to maintenance
 
 ...
