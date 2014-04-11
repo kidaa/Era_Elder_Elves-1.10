@@ -5,8 +5,9 @@
 
 
 
-Version 1.9.2
+Version 1.9.3c
  = adjusted basic values of units to mainline standards (costs etc. pp.)
+ = took out the Shaman lvl0 units from recruitment
 
 Version 1.1.0
  = merged in some units from The_Aragwaithi (.png sprites and .cfg files)
